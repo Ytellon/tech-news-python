@@ -1,4 +1,4 @@
-# Descrição do Projeto 🧑🏻‍💻
+# Descrição do Projeto 🧑🏻‍💻🖱️
 
 Projeto desenvolvido no módulo de ciência da computação na instituição 🖱️[Trybe](https://www.betrybe.com/), com o objetivo de raspar dados (_scraper_) de uma [página](https://blog.betrybe.com/) usando python e inserir no banco de dados (_mongodb_).
 
