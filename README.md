@@ -5,7 +5,7 @@ Projeto desenvolvido no módulo de ciência da computação na instituição �
 
 # Estrutura do projeto
 
-Estrutura do projeto e descrição dos arquivos que foram desenvolvidos por mim e pela Trybe.
+Estrutura do projeto e descrição dos arquivos que foram desenvolvidos por mim.
 
 ```
 Legenda:
